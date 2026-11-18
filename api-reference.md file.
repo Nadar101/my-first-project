@@ -1,0 +1,7 @@
+# API Request Headers
+
+| Header | Required | Description |
+|---|---|---|
+| Authorization | Yes | Bearer token for authentication |
+| Content-Type | Yes | application/json |
+| Accept | Yes | application/json |
