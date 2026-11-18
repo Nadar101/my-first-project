@@ -1,0 +1,11 @@
+# API HTTP Response Codes
+
+| Status Code | Description |
+|---|---|
+| 201 | Task created successfully |
+| 400 | Invalid request data |
+| 401 | User is not authenticated |
+| 403 | User does not have permission |
+| 404 | Project or assignee not found |
+| 409 | Task creation conflict |
+| 500 | Internal server error |
