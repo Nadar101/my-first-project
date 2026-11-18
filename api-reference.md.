@@ -1,0 +1,10 @@
+## 3. Request Parameters
+
+| Parameter | Data Type | Required | Description |
+|---|---|---|---|
+| project_id | Integer | Yes | The ID of the project |
+| title | String | Yes | The task title |
+| description | String | No | Details about the task |
+| assignee_id | Integer | Yes | ID of the assigned user |
+| due_date | Date | Yes | Task deadline |
+| priority | String | Yes | low, medium, or high |
