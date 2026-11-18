@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "message": "Task created successfully",
+  "data": {
+    "id": 501,
+    "project_id": 25,
+    "title": "Complete project report",
+    "description": "Prepare and submit the final report.",
+    "assignee_id": 102,
+    "due_date": "2026-12-15",
+    "priority": "high",
+    "status": "pending"
+  }
+}
